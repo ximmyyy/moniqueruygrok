@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
+    "title": "Monique Ruygrok's Coaching",
     "base_url": "https://bigspring-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -27,7 +27,7 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "copyright": "Designed and Developed By [Wessel Ruiter] https://www.tastysocials.nl/)"
   },
 
   "metadata": {

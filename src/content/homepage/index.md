@@ -1,35 +1,35 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Samen groeien in het onderwijs – voor een carrière met meer voldoening en minder stress.
+  content: Laat mij je helpen om de uitdagingen in het onderwijs aan te gaan. Als personal coach ondersteun ik docenten om weer met energie en voldoening voor de klas te staan.
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "Contacteer mij"
     link: "/contact"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Wat Je Moet Weten
   features:
-  - name: "Clean Code"
+  - name: "Persoonlijke Groei"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Ontdek en ontwikkel jouw sterke punten als docent."
+  - name: "Balans in Werkdruk"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Leer omgaan met stress en hervind de balans in je werk."
+  - name: "Teamcoaching"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+    content: "Versterk de samenwerking binnen jouw team met doelgerichte coaching."
+  - name: "Praktische Tips"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Direct toepasbare tools om je klaslokaal te verbeteren."
+  - name: "Vetrouwen in de Klas"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "Sta met hernieuwd zelfvertrouwen voor de klas."
+  - name: "Duurzame Ontwikkeling"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Blijf groeien, zowel professioneel als persoonlijk, met een coach die jou begrijpt."
 
 # services
 services:
