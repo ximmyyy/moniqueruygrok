@@ -33,15 +33,15 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Al meer dan 30+ jaar ervaring in de onderwijs en coaching sector."
+    content: "Met meer dan drie decennia aan ervaring in het onderwijs en coaching, bied ik deskundige begeleiding en ondersteuning. Mijn focus ligt op het versterken van zowel individuen als teams, met als doel het bereiken van blijvende resultaten en groei in een professionele omgeving."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Leer meer
       link: /contact
 
   - title: "It is a privately owned Information and cyber security company"
