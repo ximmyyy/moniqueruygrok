@@ -16,6 +16,10 @@
       "name": "FAQ",
       "url": "/faq"
     },
+    {
+      "name": "Elements",
+      "url": "/elements"
+    }
   ],
   "footer": [
     {
@@ -30,11 +34,27 @@
     {
       "name": "Product",
       "menu": [
+        {
+          "text": "Features",
+          "url": "#"
+        },
+        {
+          "text": "Platform",
+          "url": "#"
+        },
+        {
+          "text": "Pricing",
+          "url": "/pricing"
+        }
       ]
     },
     {
       "name": "Support",
       "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
         {
           "text": "Privacy Policy",
           "url": "/privacy-policy"
