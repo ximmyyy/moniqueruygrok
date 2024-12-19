@@ -1,40 +1,40 @@
 ---
 banner:
-  title: Samen groeien in het onderwijs – voor een carrière met meer voldoening en minder stress.
-  content: Laat mij je helpen om de uitdagingen in het onderwijs aan te gaan. Als personal coach ondersteun ik docenten om weer met energie en voldoening voor de klas te staan.
+  title: Groei als docent met minder stress en meer plezier.
+  content: Samen overwinnen we de obstakels in het onderwijs. Ik help je opnieuw voldoening te vinden in jouw rol als docent.
   image: /images/banner-art.png
   button:
-    label: "Contacteer mij"
+    label: "Plan een kennismaking"
     link: "/contact"
     enable: true
 
 # feature
 feature: 
-  title: Wat Je Moet Weten
+  title: Hoe ik je kan helpen
   features:
   - name: "Persoonlijke Groei"
     icon: "/images/code.svg"
-    content: "Ontdek en ontwikkel jouw sterke punten als docent."
+    content: "Ontwikkel jouw unieke talenten en versterk je onderwijsvaardigheden."
   - name: "Balans in Werkdruk"
     icon: "/images/oop.svg"
-    content: "Leer omgaan met stress en hervind de balans in je werk."
+    content: "Vind een gezonde balans tussen werk en privé voor meer energie."
   - name: "Teamcoaching"
     icon: "/images/user-clock.svg"
-    content: "Versterk de samenwerking binnen jouw team met doelgerichte coaching."
+    content: "Werk effectiever samen en creëer een ondersteunend team."
   - name: "Praktische Tips"
     icon: "/images/love.svg"
-    content: "Direct toepasbare tools om je klaslokaal te verbeteren."
-  - name: "Vetrouwen in de Klas"
+    content: "Krijg direct bruikbare strategieën om je lessen te optimaliseren."
+  - name: "Zelfvertrouwen"
     icon: "/images/speedometer.svg"
-    content: "Sta met hernieuwd zelfvertrouwen voor de klas."
+    content: "Sta met overtuiging en plezier voor de klas."
   - name: "Duurzame Ontwikkeling"
     icon: "/images/cloud.svg"
-    content: "Blijf groeien, zowel professioneel als persoonlijk, met een coach die jou begrijpt."
+    content: "Bereik blijvende groei, zowel professioneel als persoonlijk."
 
 # services
 services:
-  - title: "Al meer dan 30+ jaar ervaring in de onderwijs en coaching sector."
-    content: "Met meer dan drie decennia aan ervaring in het onderwijs en coaching, bied ik deskundige begeleiding en ondersteuning. Mijn focus ligt op het versterken van zowel individuen als teams, met als doel het bereiken van blijvende resultaten en groei in een professionele omgeving."
+  - title: "Meer dan 30 jaar ervaring in onderwijs en coaching"
+    content: "Met mijn jarenlange expertise help ik docenten en teams bij het bereiken van duurzame resultaten en groei."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -44,50 +44,50 @@ services:
       label: Leer meer
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Individuele begeleiding op maat"
+    content: "Samen maken we een persoonlijk plan dat aansluit bij jouw doelen en uitdagingen in het onderwijs."
     images: 
       - "/images/service-slide-1.png"
     button:
       enable: true
-      label: Check it out
-      link: /contact
-  
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
+      label: Ontdek meer
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Teamcoaching voor betere samenwerking"
+    content: "Ik ondersteun teams in het onderwijs om effectiever samen te werken en een positieve werkomgeving te creëren."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Ontdek meer
+      link: /contact
+
+  - title: "Inspiratie en strategie voor blijvende groei"
+    content: "Mijn aanpak biedt praktische en strategische ondersteuning voor een toekomst vol energie en voldoening."
+    images:
+      - "/images/service-slide-1.png"
+      - "/images/service-slide-2.png"
+      - "/images/service-slide-3.png"
+    button:
+      enable: true
+      label: Ontdek meer
       link: /contact
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
+  title: "Ervaar een effectieve samenwerking"
   image: "/images/banner.png"
-  description: ""
+  description: "Samen werken we aan oplossingen die jouw uitdagingen in het onderwijs verlichten."
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Klaar om de volgende stap te zetten?
+  content: Neem contact op en ontdek hoe ik jou kan ondersteunen in het onderwijs.
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Plan een gesprek"
     link: "/contact"
 ---
