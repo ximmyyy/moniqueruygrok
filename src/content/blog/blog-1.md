@@ -1,19 +1,21 @@
 ---
-title: "What you need to know about Photography"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-1.jpg"
-date: 2022-04-04T05:00:00Z
+title: "A New Chapter as a Coach"
+description: "Reflecting on over 20 years of experience and embarking on a new journey within Lucas Onderwijs."
+image: "/mnt/data/image.png"
+date: 2024-12-21T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Na ruim 20 jaar als leerkracht, teamleider en adjunct-directeur te hebben gewerkt, heb ik afscheid genomen van 't Kraaienest. De mooie woorden, cadeaus en lieve berichten waren ❤️ - verwarmend!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Ik laat een geweldig team en de meest fantastische doelgroep achter, maar ga met een nieuw avontuur verder en mijn activiteiten als bovenschools coach binnen Lucas Onderwijs uitbreiden. Dankbaar voor deze kans en ontzettend veel zin in!
 
-## Creative Design
+## Reflecting on the Journey
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Het was een ongelooflijke reis om zo lang deel uit te maken van een team dat zich met hart en ziel inzet voor leerlingen die extra aandacht verdienen. De herinneringen die ik koester en de lessen die ik heb geleerd, neem ik mee naar de toekomst.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> "Dankbaar voor het vertrouwen en de steun die ik de afgelopen jaren heb mogen ontvangen. Op naar een nieuwe uitdaging!"
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Ik kijk ernaar uit om mijn kennis en ervaring nu in te zetten op een bredere schaal en anderen te helpen groeien en excelleren.
+
+**Blijf mijn reis volgen en laten we samen werken aan een inclusieve en inspirerende onderwijswereld!**
