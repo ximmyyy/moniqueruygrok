@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Contateer mij"
 draft: false
 info: 
   title: Neem contact met mij op!
